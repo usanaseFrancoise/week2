@@ -1,24 +1,22 @@
 body{
 
-    margin-right:50px;
-    margin-left:50px;
+    margin-right: 40px;
+    margin-left:40px;
     font:1em/1.5 sans-serif; 
     text-align: center;
 
 
-}
-#boo{
-    color:blue;
 }
 h2{
 
     margin-left: 60px;
     font-size: 30px;
 }
+
 form{
     margin:20px auto;
     width:320px;
-    background-color:rgba(202, 188, 240, 0.795);
+    background-color:rgb(177, 207, 219);
     text-align: center;
 }
 input{
@@ -37,4 +35,8 @@ input:focus{
 input[type="radio"]:checked+label{
     font-weight: bold;
     font-size: 18px;
+}
+#mine{
+    text-align: center;
+    background-color:rgb(177, 207, 219);
 }
