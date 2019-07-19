@@ -1,7 +1,7 @@
 body{
 
-    margin-right: 40px;
-    margin-left:40px;
+    margin-right:50px;
+    margin-left:50px;
     font:1em/1.5 sans-serif; 
     text-align: center;
 
@@ -18,7 +18,7 @@ h2{
 form{
     margin:20px auto;
     width:320px;
-    background-color:rgb(241, 234, 220);
+    background-color:rgba(202, 188, 240, 0.795);
     text-align: center;
 }
 input{
